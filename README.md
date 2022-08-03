@@ -3,3 +3,39 @@
 ### Steps:
 
 - Orientação a Objetos, introdução ✅
+  - Primeira classe — Contas ✅
+  - Instanciação, atributos e referências ✅
+  - Características dos objetos ✅
+  - Definindo tipos ✅
+  - Segunda Instância ✅
+  - Valores default de atributos ✅
+  - Definindo valor de atributos ✅
+  - Referências vs Objetos ✅
+  - Referências de objetos ✅
+  - Mão na massa: Criando as primeiras classes ✅
+  - Arquivos do projeto atual ✅
+  - O que aprendemos? ✅
+    - O que é uma classe ✅
+    - Como criar uma classe ✅
+    - Como criar um objeto ou instância de uma classe ✅
+    - O que são atributos ✅
+    - Como definir e visualizar valores de atributos ✅
+    - Como funciona a atribuição de uma referência a uma variável ✅
+- Definindo comportamentos ✅
+  - Nosso primeiro método ✅
+  - Sobre métodos ✅
+  - Como chamar um método? ✅
+  - Você conhece o this? ✅
+  - Métodos com retorno ✅
+  - Métodos validos ✅
+  - Onde usar o this? ✅
+  - Métodos com referência e mais retorno ✅
+  - Declaração do método ✅
+  - Mão na massa: Criando métodos ✅
+  - Arquivos do projeto atual ✅
+  - O que aprendemos? ✅
+    - como definir métodos com parâmetros e retorno ✅
+    - como retornar algo usando a palavra-chave `return` ✅
+    - como usar a referência `this` para acessar um atributo ✅
+    - que podemos passar uma referência como parâmetro do método ✅
+    - métodos são chamadas a partir da referência usando o operador `.` ✅
