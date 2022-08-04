@@ -13,7 +13,6 @@
   - Referências vs Objetos ✅
   - Referências de objetos ✅
   - Mão na massa: Criando as primeiras classes ✅
-  - Arquivos do projeto atual ✅
   - O que aprendemos? ✅
     - O que é uma classe ✅
     - Como criar uma classe ✅
@@ -32,10 +31,21 @@
   - Métodos com referência e mais retorno ✅
   - Declaração do método ✅
   - Mão na massa: Criando métodos ✅
-  - Arquivos do projeto atual ✅
   - O que aprendemos? ✅
     - como definir métodos com parâmetros e retorno ✅
     - como retornar algo usando a palavra-chave `return` ✅
     - como usar a referência `this` para acessar um atributo ✅
     - que podemos passar uma referência como parâmetro do método ✅
     - métodos são chamadas a partir da referência usando o operador `.` ✅
+- Composição de objetos ✅
+  - Composição de Objetos ✅
+  - Extraindo o que é comum ✅
+  - Referência Null ✅
+  - Problema não esperado ✅
+  - Solucionando o problema no código ✅
+  - Mão na massa: Referências ✅
+  - O que aprendemos? ✅
+    - Realizar o relacionamento entre classes através de composição; ✅
+    - Vantagens de se isolar informações repetidas em outra classe; ✅
+    - Detalhes da composição; ✅
+    - NullPointerException para atributos não inicializados e seus cuidados. ✅
