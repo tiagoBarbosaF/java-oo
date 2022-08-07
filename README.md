@@ -12,7 +12,6 @@
   - Definindo valor de atributos ✅
   - Referências vs Objetos ✅
   - Referências de objetos ✅
-  - Mão na massa: Criando as primeiras classes ✅
   - O que aprendemos? ✅
     - O que é uma classe ✅
     - Como criar uma classe ✅
@@ -30,7 +29,6 @@
   - Onde usar o this? ✅
   - Métodos com referência e mais retorno ✅
   - Declaração do método ✅
-  - Mão na massa: Criando métodos ✅
   - O que aprendemos? ✅
     - como definir métodos com parâmetros e retorno ✅
     - como retornar algo usando a palavra-chave `return` ✅
@@ -43,7 +41,6 @@
   - Referência Null ✅
   - Problema não esperado ✅
   - Solucionando o problema no código ✅
-  - Mão na massa: Referências ✅
   - O que aprendemos? ✅
     - Realizar o relacionamento entre classes através de composição; ✅
     - Vantagens de se isolar informações repetidas em outra classe; ✅
@@ -56,12 +53,24 @@
   - Criando Getters e Setters ✅
   - Getters e Setters de referência ✅
   - Vantagens de atributos privados ✅
-  - Mão na massa: Criando Getters e Setters ✅
   - Para saber mais: Cuidado com o Modelo Anêmico ✅
-  - Arquivos do projeto atual ✅
   - O que aprendemos? ✅
     - Atributos privados, restringindo o acesso aos atributos ✅
     - Encapsulamento de código ✅
     - Métodos de leitura dos atributos, os `getters` ✅
     - Métodos de modificação dos atributos, os `setters` ✅
     - Getters e Setters de referência ✅
+- Construtores e membros estáticos ✅
+  - Construtores ✅
+  - Utilizando construtores ✅
+  - Onde está o erro? ✅
+  - Static ✅
+  - Por que não soma? ✅
+  - Para saber mais: reaproveitamento entre construtores ✅
+  - E agora? ✅
+  - O que aprendemos? ✅
+    - Construtor da classe, possibilitando receber argumentos e inicializar atributos a partir da criação de um objeto ✅
+    - Com isso, a inicialização dos atributos recebidos no construtor torna-se obrigatória ✅
+    - Atributos da classe, os atributos estáticos ✅
+    - Métodos da classe, os métodos estáticos ✅
+    - Ausência de referência, do `this`, em métodos estáticos ✅
