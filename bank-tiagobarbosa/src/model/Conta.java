@@ -1,10 +1,10 @@
 package model;
 
 public class Conta {
-    public int agencia;
-    public int numero;
-    public double saldo;
-    public Cliente titular;
+    private int agencia;
+    private int numero;
+    private double saldo;
+    private Cliente titular;
 
     public void deposita(double valor) {
         saldo += valor;
@@ -24,5 +24,33 @@ public class Conta {
             return true;
         }
         return false;
+    }
+
+    public int getAgencia() {
+        return agencia;
+    }
+
+    public int getNumero() {
+        return numero;
+    }
+
+    public double getSaldo() {
+        return saldo;
+    }
+
+    public Cliente getTitular() {
+        return titular;
+    }
+
+    public void setAgencia(int agencia) {
+        this.agencia = agencia;
+    }
+
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
+
+    public void setTitular(Cliente titular) {
+        this.titular = titular;
     }
 }

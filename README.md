@@ -49,3 +49,19 @@
     - Vantagens de se isolar informações repetidas em outra classe; ✅
     - Detalhes da composição; ✅
     - NullPointerException para atributos não inicializados e seus cuidados. ✅
+- Encapsulamento e visibilidade ✅
+  - Atributos privados e encapsulamento ✅
+  - Público x Privado ✅
+  - Getters e Setters ✅
+  - Criando Getters e Setters ✅
+  - Getters e Setters de referência ✅
+  - Vantagens de atributos privados ✅
+  - Mão na massa: Criando Getters e Setters ✅
+  - Para saber mais: Cuidado com o Modelo Anêmico ✅
+  - Arquivos do projeto atual ✅
+  - O que aprendemos? ✅
+    - Atributos privados, restringindo o acesso aos atributos ✅
+    - Encapsulamento de código ✅
+    - Métodos de leitura dos atributos, os `getters` ✅
+    - Métodos de modificação dos atributos, os `setters` ✅
+    - Getters e Setters de referência ✅
